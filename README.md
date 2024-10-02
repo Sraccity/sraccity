@@ -1,9 +1,10 @@
 ## Heyo, I'm Praghash 👋 
 
-I'm a Melbourne-based software engineer passionate about using technology to make a difference in the lives of others. 
+
+I'm a passionate software engineer with a background in computing, neuroscience, and a strong interest in Brain-Computer Interfaces (BCI). I aim to use technology to make a difference in the lives of others. 
 
 Free free to connect with me on:
-- **GitHub**(Follow me) 
+- **GitHub** (Follow me) 
 - **[LinkedIn](https://www.linkedin.com/in/praghash/)**
 
 > This intro is still barebones. Will update soon™
