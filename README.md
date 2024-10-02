@@ -1,4 +1,12 @@
-## Hi there 👋
+## Heyo, I'm Praghash 👋 
+
+I'm a Melbourne-based software engineer passionate about using technology to make a difference in the lives of others. 
+
+Free free to connect with me on:
+- **GitHub**(Follow me) 
+- **[LinkedIn](https://www.linkedin.com/in/praghash/)**
+
+> This intro is still barebones. Will update soon™
 
 <!--
 **Sraccity/sraccity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
